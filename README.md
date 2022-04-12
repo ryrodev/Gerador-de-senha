@@ -4,7 +4,7 @@
 [download-link]: https://github.com/ryrodev/Gerador-de-senha/archive/refs/heads/main.zip
 
 [site-badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[site-link]: https://ryrodev.github.io/calculadora/
+[site-link]: https://ryrodev.github.io/Gerador-de-senha/
 
 
 Um simples gerador de senha!
